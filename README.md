@@ -1,9 +1,10 @@
 # ShoppyGlobe E-Commerce Application
 
 ## Overview
-## ShoppyGlobe is a responsive e-commerce application built using React.js and Redux. It provides a seamless shopping experience with features like product browsing, adding items to the cart, and completing orders through a checkout process. The application is designed with a focus on responsiveness, ensuring usability across devices ranging from desktops to mobile screens.
+## ShoppyGlobe is a responsive e-commerce app built with React.js and Redux, offering features like product browsing, cart management, and a seamless checkout experience. It’s designed for smooth usability across all devices.
 
-# Demo
+##  Demo
+https://shoppyglobe-ecommerce-app.netlify.app/
 
 ## Features
 - Product Browsing: View a wide range of products fetched from an external API.
@@ -17,7 +18,7 @@
 # Commands to Install Required Dependencies
 1. React and React DOM
 ```
- npm install react react-dom
+  npm install react-router-dom
 ```
 2. Redux Toolkit
 ```
